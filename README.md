@@ -88,7 +88,7 @@ This approach ensures that properties with different room capacities are appropr
 
 ### 1. Occupancy Performance by City
 
-![Occupancy by City](images/occupancy_by_city.png)
+![Occupancy by City](images/occupancy_by_city.png.jpeg)
 
 - Delhi recorded the highest occupancy at 60.52%.
 - Bangalore recorded the lowest occupancy at 55.76%.
@@ -96,7 +96,7 @@ This approach ensures that properties with different room capacities are appropr
 
 ### 2. Weekday vs Weekend Occupancy
 
-![Weekday vs Weekend Occupancy](images/weekday_vs_weekend.png)
+![Weekday vs Weekend Occupancy](images/weekday_vs_weekend.png.png)
 
 - Weekend occupancy reached 73.58%.
 - Weekday occupancy stood at 51.34%.
@@ -104,7 +104,7 @@ This approach ensures that properties with different room capacities are appropr
 
 ### 3. Revenue Performance by City
 
-![Revenue by City](images/revenue_by_city.png)
+![Revenue by City](images/revenue_by_city.png.jpeg)
 
 - Mumbai was the largest revenue-generating market, contributing ₹66.86 crore.
 - Bangalore ranked second with ₹42.04 crore.
@@ -114,7 +114,7 @@ This highlights the importance of evaluating room capacity and pricing alongside
 
 ### 4. Monthly Revenue Trend
 
-![Monthly Revenue Trend](images/monthly_revenue.png)
+![Monthly Revenue Trend](images/monthly_revenue_trend.png.jpeg)
 
 | Month | Realized Revenue | MoM Growth |
 |---|---:|---:|
@@ -126,7 +126,7 @@ Revenue declined in June before partially recovering in July. Further investigat
 
 ### 5. Booking Platform Performance
 
-![Revenue by Booking Platform](images/revenue_by_platform.png)
+![Revenue by Booking Platform](images/revenue_by_platform.png.jpeg)
 
 - The Others booking channel contributed 40.93% of total realized revenue.
 - Direct Offline contributed the smallest share at 5.06%.
